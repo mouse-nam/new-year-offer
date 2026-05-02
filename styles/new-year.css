@@ -120,3 +120,71 @@
 .different {
   color: #ff0000;
 }
+
+/* new-best-offer-section styles */
+.offer-started {
+  width: 1320px;
+  height: 460px;
+}
+.best-offers {
+  display: flex;
+}
+.best-offer-one {
+  width: 390;
+  height: 250;
+  margin-top: 104px;
+  margin-bottom: 104px;
+  margin-right: 70px;
+}
+.best-offer-subtitle {
+  font-size: 24px;
+  font-weight: 200;
+  color: #ff0000;
+}
+.best-offer-title {
+  font-size: 48px;
+  color: #070211;
+}
+.best-offer-description {
+  font-size: 20px;
+  color: #070211;
+  opacity: 50%;
+  text-align: left;
+}
+
+.photo {
+  height: 460px;
+  width: 460px;
+}
+.welcome-picture {
+  height: 364px;
+  width: 364px;
+}
+
+.best-offer-two {
+  margin-top: 112px;
+  margin-left: 118px;
+  margin-bottom: 181px;
+}
+
+.year-content {
+  width: 270px;
+  height: 170px;
+}
+.year-title {
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: top-left;
+  color: #ff0000;
+}
+.year-description {
+  font-size: 20px;
+  color: #070211;
+  opacity: 60%;
+}
+.year-greetings-image {
+  width: 140px;
+  height: 140px;
+  margin-top: 43px;
+}
